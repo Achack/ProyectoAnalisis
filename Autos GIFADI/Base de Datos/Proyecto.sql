@@ -8,7 +8,7 @@ CREATE TABLE Modelos
 );
 
 CREATE TABLE Vehiculos
-(
+( 
 	Id Integer primary key not null,
 	VIN TEXT not null,
 	Id_modelo INTEGER NOT NULL,
