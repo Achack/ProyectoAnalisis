@@ -19,7 +19,7 @@ CREATE TABLE Marcas
 (
 	Id_marca INTEGER PRIMARY KEY NOT NULL,
     nombre VARCHAR(25) NOT NULL
-    #sucursal no entiendo que es
+  
 );
 
 CREATE TABLE Piezas
